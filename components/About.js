@@ -11,7 +11,7 @@ const About = () => {
             src={profile}
             alt="Profile"
             priority={true}
-            className="rounded-full"
+            className="rounded-full dark:bg-orange"
             width={250}
             height={250}
             placeholder="blur"
