@@ -21,7 +21,7 @@ const About = () => {
           <h1 className="text-2xl font-bold text-orange lg:text-5xl dark:text-white">
             Pira Tejasakulsin
           </h1>
-          <h2 className="text-2xl font-bold text-black lg:text-4xl dark:text-grey">
+          <h2 className="text-2xl font-bold text-black lg:text-4xl dark:text-orange">
             Software Developer
           </h2>
           <div className="mt-6 text-black dark:text-white">

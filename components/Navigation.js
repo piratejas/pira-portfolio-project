@@ -9,7 +9,7 @@ const Navigation = () => {
         <Link href="/">
           <a
             className={
-              "font-semibold tracking-wider transition-colors text-black hover:text-white dark:text-white dark:hover:text-grey"
+              "font-semibold tracking-wider transition-colors text-black hover:text-white dark:text-white dark:hover:text-black"
             }
           >
             about
@@ -18,7 +18,7 @@ const Navigation = () => {
         <Link href="/">
           <a
             className={
-              "font-semibold tracking-wider transition-colors text-black hover:text-white dark:text-white dark:hover:text-grey"
+              "font-semibold tracking-wider transition-colors text-black hover:text-white dark:text-white dark:hover:text-black"
             }
           >
             work
@@ -27,7 +27,7 @@ const Navigation = () => {
         <Link href="/">
           <a
             className={
-              "font-semibold tracking-wider transition-colors text-black hover:text-white dark:text-white dark:hover:text-grey"
+              "font-semibold tracking-wider transition-colors text-black hover:text-white dark:text-white dark:hover:text-black"
             }
           >
             stack
@@ -36,7 +36,7 @@ const Navigation = () => {
         <Link href="/">
           <a
             className={
-              "font-semibold tracking-wider transition-colors text-black hover:text-white dark:text-white dark:hover:text-grey"
+              "font-semibold tracking-wider transition-colors text-black hover:text-white dark:text-white dark:hover:text-black"
             }
           >
             contact

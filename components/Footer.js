@@ -14,7 +14,7 @@ const Footer = () => {
               target="_blank"
               rel="noreferrer"
             >
-              LinkedIn
+              GitHub
             </a>
             <a
               href="#"
@@ -22,7 +22,7 @@ const Footer = () => {
               target="_blank"
               rel="noreferrer"
             >
-              GitHub
+              LinkedIn
             </a>
           </div>
         </div>
