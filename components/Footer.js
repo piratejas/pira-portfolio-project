@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="pb-8 mb-2 border-t-2 border-black dark:border-white"></div>
         <div className="flex flex-col justify-between lg:flex-row items-center">
           <p>Built with Next.js, Tailwind and Vercel</p>
-          <div className="flex flex-wrap pt-2 sm:space-x-4 space-x-2 font-medium lg:pt-0">
+          <div className="flex flex-wrap pt-2 sm:space-x-4 space-x-2 font-bold lg:pt-0">
             <a
               href="https://www.codewars.com/users/piratejas"
               className={"transition-colors hover:text-orange"}
