@@ -9,7 +9,15 @@ const Footer = () => {
           <p>Built with Next.js, Tailwind and Vercel</p>
           <div className="flex flex-wrap pt-2 sm:space-x-4 space-x-2 font-medium lg:pt-0">
             <a
-              href="#"
+              href="https://www.codewars.com/users/piratejas"
+              className={"transition-colors hover:text-orange"}
+              target="_blank"
+              rel="noreferrer"
+            >
+              CodeWars
+            </a>
+            <a
+              href="https://github.com/piratejas"
               className={"transition-colors hover:text-orange"}
               target="_blank"
               rel="noreferrer"
@@ -17,7 +25,7 @@ const Footer = () => {
               GitHub
             </a>
             <a
-              href="#"
+              href="https://www.linkedin.com/in/piratejas/"
               className={"transition-colors hover:text-orange"}
               target="_blank"
               rel="noreferrer"
