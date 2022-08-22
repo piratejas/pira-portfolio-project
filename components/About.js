@@ -6,7 +6,7 @@ const About = () => {
   return (
     <div className="container px-4 mx-auto">
       <div className="lg:space-x-5 lg:flex lg:flex-row item-center lg:-mx-4 flex flex-col text-center lg:text-left">
-        <div className="flex-shrink-0 lg:mt-12 lg:px-4 mb-10 drop-shadow">
+        <div className="flex-shrink-0 lg:mt-10 lg:px-4 mb-10 drop-shadow">
           <Image
             src={profile}
             alt="Profile"
