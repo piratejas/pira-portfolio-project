@@ -26,13 +26,11 @@ const About = () => {
           </h2>
           <div className="mt-6 text-black dark:text-white">
             <p className="mb-4">
-              I am a self-motivated full-stack developer proficient in
-              JavaScript, HTML and CSS, seeking a role as a junior developer.
-              After 10+ years in hospitality, I committed to changing my life
-              and learning how to code. I am hoping now to find the opportunity
-              to contribute my abilities as a creative and adaptable
-              problem-solver while also continuing my personal development in a
-              professional setting.
+              I'm Pira, a self-taught career-switcher and bootcamp graduate who
+              loves to solve problems. After a decade in the hospitality
+              industry managing servers and handling client requests, I decided
+              to make the leap into the world of tech and do something
+              completely different...
             </p>
           </div>
         </div>
