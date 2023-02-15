@@ -26,10 +26,13 @@ const About = () => {
           </h2>
           <div className="mt-6 text-black dark:text-white">
             <p className="mb-4">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book.
+              I am a self-motivated full-stack developer proficient in
+              JavaScript, HTML and CSS, seeking a role as a junior developer.
+              After 10+ years in hospitality, I committed to changing my life
+              and learning how to code. I am hoping now to find the opportunity
+              to contribute my abilities as a creative and adaptable
+              problem-solver while also continuing my personal development in a
+              professional setting.
             </p>
           </div>
         </div>
